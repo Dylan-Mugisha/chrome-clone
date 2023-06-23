@@ -1,0 +1,11 @@
+.myshadow{
+    box-shadow:  8px 8px 0 rgba(0, 0, 0, 0.35);
+}
+.myhover{
+    display: block;
+    transition: .5s;
+}
+.myhover:hover{
+    transform: translateY(-10px);
+
+}
